@@ -1,6 +1,6 @@
 UV-Lichtsensor
 ----
-*(Seeed Studio Grove - I2C UV Sensor (VEML6070))*
+*(Seeed Studio Grove - UV Sensor)*
 
 <img src=https://www.makeyourschool.de/wp-content/uploads/2018/08/6_uv-sensor-1024x1024.jpg width=400px>
 
